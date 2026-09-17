@@ -6,3 +6,7 @@ Hi this is my first project. I wanted to make a simple wallpaper switcher becaus
 """
 sudo pacman -S customtkinter pillow awww
 """
+
+# other requirements
+Please install it in your .config folder and then u can bind it to a key in hyprland or smth. I want to add a .sh script that will install it there directly but thats a future project.
+I also may add screenshotes for u to see how it looks. Enjoy!!
